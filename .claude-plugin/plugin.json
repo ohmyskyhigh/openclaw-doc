@@ -1,0 +1,5 @@
+{
+  "name": "openclaw-doc",
+  "description": "OpenClaw documentation reference. OpenClaw is a self-hosted, open-source (MIT) gateway that connects chat apps (WhatsApp, Telegram, Discord, iMessage, Slack, etc.) to AI agents.",
+  "version": "1.0.0"
+}

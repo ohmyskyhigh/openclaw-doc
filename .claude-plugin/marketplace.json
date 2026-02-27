@@ -1,0 +1,11 @@
+{
+  "name": "openclaw-marketplace",
+  "owner": { "name": "ohmyskyhigh" },
+  "plugins": [
+    {
+      "name": "openclaw-doc",
+      "source": ".",
+      "description": "OpenClaw documentation skill for Claude Code"
+    }
+  ]
+}
